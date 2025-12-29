@@ -1,0 +1,5 @@
+{
+  "name": "WorkHours Tracker (Timesheet)",
+  "description": "A comprehensive RTL work hour tracking application designed for Persian-speaking users. Manage entry/exit times, overtime, and paid holidays with AI-powered insights.",
+  "requestFramePermissions": []
+}
